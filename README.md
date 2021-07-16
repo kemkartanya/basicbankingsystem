@@ -14,7 +14,3 @@ frontend: HTML, CSS, JAVASCRIPT
 backend: PHP
 </br>
 database: MySQL
-
-Some Sample of website ( basic banking system website )
-
-![gf](https://drive.google.com/file/d/1oMLHlakQXjYsgCNCjZF8VQIxG5U7gqKl/view?usp=sharing)
