@@ -2,9 +2,9 @@
 Basic Banking System
 Functionality:
 
--> View All Customers
--> View All Recent Transactions
--> Transfer money to someone (other user)
+-> View All Customers</br>
+-> View All Recent Transactions</br>
+-> Transfer money to someone (other user)</br>
 
 
 Tech Stack
