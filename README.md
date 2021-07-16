@@ -7,10 +7,14 @@ Functionality:
 -> Transfer money to someone (other user)</br>
 
 
-Tech Stack
+Tech Stack:
 
 frontend: HTML, CSS, JAVASCRIPT
 </br>
 backend: PHP
 </br>
 database: MySQL
+
+Some Sample of website ( basic banking system website )
+
+https://drive.google.com/file/d/1oMLHlakQXjYsgCNCjZF8VQIxG5U7gqKl/view?usp=sharing
