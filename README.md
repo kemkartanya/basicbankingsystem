@@ -1,14 +1,14 @@
 # basicbankingsystem
 Basic Banking System</br>
-Functionality:
 
+
+Functionality:</br>
 -> View All Customers</br>
 -> View All Recent Transactions</br>
 -> Transfer money to someone (other user)</br>
 
 
-Tech Stack:
-
+Tech Stack:</br>
 frontend: HTML, CSS, JAVASCRIPT
 </br>
 backend: PHP
